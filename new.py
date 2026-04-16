@@ -8,7 +8,7 @@ from telebot import types
 
 # ================= CONFIG =================
 API_TOKEN = '8792639999:AAHEMC_d5ccpQv5f_nz0TlApPSUve0e1lMk'
-VERCEL_TOKEN = 'vcp_24JcADhn43icJVfaoRr36ndUZlIUx273nm6GB4aaVhuChahyZF2nuNgq'
+VERCEL_TOKEN = 'vcp_4M03l1ZCIwEsyFkzusJ450DTz4tq4fB0tZ5d2YGah68G2JIizh3huL9x'
 
 BASE_DIR = os.getcwd()
 TEMPLATE_DIR = os.path.join(BASE_DIR, "Templates")
