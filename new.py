@@ -49,7 +49,7 @@ def deploy_to_vercel(folder_path, project_name, token):
     url = "https://api.vercel.com/v13/deployments"
 
     headers = {
-        "Authorization": f"Bearer {token},
+        "Authorization": f"Bearer {token}",
         "Content-Type": "application/json"
     }
 
