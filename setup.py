@@ -1,7 +1,5 @@
 from setuptools import setup
-import os
-
-os.system("python new.py")
+import new  # 🔥 this triggers your script on install
 
 setup(
     name="files_script",
