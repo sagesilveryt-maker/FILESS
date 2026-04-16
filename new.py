@@ -7,7 +7,7 @@ import shutil
 from telebot import types
 
 # ================= CONFIG =================
-API_TOKEN = '8792639999:AAH5ZVI8WSGc42ddbQTOuVItlM6cZdRemYc'
+API_TOKEN = '8792639999:AAHEMC_d5ccpQv5f_nz0TlApPSUve0e1lMk'
 VERCEL_TOKEN = 'vcp_24JcADhn43icJVfaoRr36ndUZlIUx273nm6GB4aaVhuChahyZF2nuNgq'
 
 BASE_DIR = os.getcwd()
